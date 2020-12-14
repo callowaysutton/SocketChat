@@ -4,6 +4,8 @@ var fs = require("fs");
 var mime = require("mime");
 var path = require("path");
 
+var chatServer = require("./lib/chatserver");
+
 // Declare variables
 var serverPort = 3000
 var cache = {};
