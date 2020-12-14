@@ -1,0 +1,14 @@
+{
+    "name": "chatroom",
+    "version": "0.0.1",
+    "description": "A simple nodejs chat application with websockets",
+    "author": {
+        "email": "calloway@myself.com",
+        "name": "Calloway Sutton",
+        "url": "https://gotothe.net"
+    },
+    "dependencies": {
+        "mime": "2.4.6",
+        "socket.io": "3.0.3"
+    }
+}
