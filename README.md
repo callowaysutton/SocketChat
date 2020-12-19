@@ -1,11 +1,10 @@
 # SocketChat
 A simple node.js web application which utilizes Socket.io for websockets.
 
-> Currently in the Works
-- [ ] Frontend
+- [x] Frontend
   - [x] Simple interface
-  - [ ] Handle Commands
-  - [ ] Handle messages
+  - [x] Handle Commands
+  - [x] Handle messages
 - [x] Backend
   - [x] Handle Messages
   - [x] Handle Commands
